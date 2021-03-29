@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+    background-color: rgb(248, 227, 239);
+    font-family: "roboto";
+
+  }
+  
+  h1 {
+    color: aqua ;
+    margin-left: 20px;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px rgb(104, 153, 216);
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+  }
+  h2 {
+color: navy;
+align-items: center;
+font-weight: bold;
+background-color: turquoise;
+}
+
+.center{
+  background-color: yellow;
+  text-align:center;
+ 
+}
+img {
+  border-radius: 50%};
